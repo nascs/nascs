@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![William Norman's GitHub status](https://github-readme-stats.vercel.app/api?username=nascs&show_icons=true&theme=radical)
+[![William Norman's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nascs&theme=dark)](https://github.com/nascs)
